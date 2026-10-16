@@ -1,7 +1,7 @@
 {
   "channel": "beta",
-  "version": "1.1.4",
-  "installer_url": "https://github.com/fuzzykeuh/PANDA/releases/download/v1.1.4/PANDA_Setup_1.1.4.exe",
-  "sha256": "dcc685e07d5563d2f1d6ba9438d5a10056a240730a449daa444d43a055f51429",
-  "release_notes": "PANDA 1.1.4 - first public release."
+  "version": "1.1.5",
+  "installer_url": "https://github.com/fuzzykeuh/PANDA/releases/download/v1.1.5/PANDA_Setup_1.1.5.exe",
+  "sha256": "db3450c5700e344bb0410b5cc44e3d4fc000e27a5f8f1768fb1a1fcaf3963c20",
+  "release_notes": "PANDA 1.1.5 - first public release."
 }
